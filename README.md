@@ -41,17 +41,6 @@ I'm aiming at **systems administration, IT support and, longer term, DevOps and 
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![iptables](https://img.shields.io/badge/iptables-firewall-333333?style=for-the-badge&logo=linux&logoColor=white)
-
-**Databases & web**
-
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Also**: Active Directory · DNS · DHCP · VLANs · OSPF · NAT/PAT · ACLs · VPN · backups with rsync and Rclone
 
@@ -62,12 +51,11 @@ I'm aiming at **systems administration, IT support and, longer term, DevOps and 
 | Project | What it is | Stack |
 |---|---|---|
 | ☁️ **Cloud platform** *(team project)* | Cloud infrastructure designed to be deployed in companies, built with classmates and hosted on Proxmox | Proxmox · Linux · Docker |
-| 🌐 **DHCP lab on Proxmox** | Ubuntu 22.04 containers with a DHCP server and isolated clients; working through shared networks, client classes and DHCP relay | Proxmox · isc-dhcp-server |
+| 🌐 **DHCP & DNS lab on Proxmox** | Ubuntu 22.04 containers with DHCP and DNS servers and isolated clients; working through shared networks, client classes and DHCP relay | Proxmox · isc-dhcp-server · DNS |
 | 🗄️ **Cassandra security & access control** *(team project)* | Apache Cassandra on Docker inside Proxmox: user accounts, roles, access control and auditing | Cassandra · Docker · Proxmox |
 | ⚖️ **Load balancing with nginx** | Load balancer in front of several containers | nginx · Docker |
 | 🔌 **Network labs** | VLSM subnetting, VLANs, router-on-a-stick, OSPF, NAT/PAT, ACLs and RADIUS authentication | Cisco Packet Tracer |
-| 🔥 **Linux firewall** | Packet filtering rules and policies | iptables |
-| 🧑‍💻 **Personal portfolio** *(in progress)* | Multilingual personal website | HTML · CSS · PHP · JavaScript |
+| 🧑‍💻 **Personal portfolio** | Multilingual personal website | HTML · CSS · PHP · JavaScript |
 
 ---
 
