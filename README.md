@@ -1,22 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:2E5C8A&height=200&section=header&text=Carlos%20N%C3%BA%C3%B1ez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Network%20Infrastructure&descAlignY=60&descSize=18" alt="Carlos Núñez banner" />
-
 <a href="https://github.com/carlosnunezluque">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E5C8A&center=true&vCenter=true&width=620&lines=Computer+Network+Systems+Management;Linux+%C2%B7+Docker+%C2%B7+Proxmox+%C2%B7+Tailscale;IT+Support+%26+Systems+Administration;Currently+learning+DevOps+%26+Cloud" alt="Typing SVG" />
 </a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosnunezluque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosnunezluque)
-[![Email](https://img.shields.io/badge/Email-nunezluquec08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nunezluquec08@gmail.com)
-![Location](https://img.shields.io/badge/Málaga-Spain-2E5C8A?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
-## 👋 About me
+## 👋 About me · 📍 Málaga, Spain
 
 Hi, I'm **Carlos**, a 20-year-old from Málaga. I'm in my second year of the Higher Technician degree in **Computer Network Systems Management**, and I enjoy **diagnosing and solving problems**, building small labs at home and understanding how things work under the hood.
 
@@ -65,24 +57,6 @@ I'm aiming at **systems administration, IT support and, longer term, DevOps and 
 
 ---
 
-## 🧪 My home lab
-
-A Proxmox environment running inside VMware Workstation on my home PC, which I reach remotely over Tailscale. I use it to replicate and extend what we practise in class.
-
-```mermaid
-flowchart LR
-    A["💻 Remote access<br/>class / anywhere"] -- Tailscale --> B["🖥️ Home PC<br/>Windows"]
-    B --> C["VMware Workstation"]
-    C --> D["Proxmox VE"]
-    D --> E["Ubuntu 22.04 container<br/>isc-dhcp-server"]
-    D --> F["Client 1"]
-    D --> G["Client 2"]
-    E -. DHCP .-> F
-    E -. DHCP .-> G
-```
-
----
-
 ## 📂 Projects
 
 | Project | What it is | Stack |
@@ -114,15 +88,15 @@ flowchart LR
 | **Introduction to Cybersecurity** | Cisco · 2026 |
 | **Cambridge B2 First Certificate** | English |
 
-**Experience**: IT Systems Intern at TDK Electronics (2025) · Camp Counsellor at YMCA Camp Sea Gull, USA (summers 2025 and 2026)
-
 ---
 
 <div align="center">
 
 ### 📫 Let's connect
 
-I'm looking for an **internship in systems and networks**. Feel free to reach out on LinkedIn or by email.
+I'm looking for an **internship in systems and networks**. Feel free to reach out on LinkedIn.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosnunezluque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosnunezluque)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5C8A,100:1F3A5F&height=100&section=footer" alt="footer" />
 
